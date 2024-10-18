@@ -2,6 +2,8 @@
 
 这里仅保存一下从[Manim社区](https://docs.manim.community/en/stable/examples.html)中复制下来的示例（基于[v0.18.1版本](https://hub.docker.com/r/manimcommunity/manim/tags)），方便本地查阅/调试。
 
+[Manim社区版的Github地址>>](https://github.com/ManimCommunity/manim)
+
 ### 本机安装[ffmpeg](https://ffmpeg.org/download.html)
 运行Manim前需要安装一下[ffmpeg](https://ffmpeg.org/download.html)，并将`ffmpeg`配置到系统的环境变量中。
 
