@@ -4,6 +4,8 @@
 
 [Manim社区版的Github地址>>](https://github.com/ManimCommunity/manim)
 
+[Manim社区的插件>>](https://plugins.manim.community/)
+
 ### 本机安装[ffmpeg](https://ffmpeg.org/download.html)
 运行Manim前需要安装一下[ffmpeg](https://ffmpeg.org/download.html)，并将`ffmpeg`配置到系统的环境变量中。
 
